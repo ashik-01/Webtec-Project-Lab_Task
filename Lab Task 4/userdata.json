@@ -1,0 +1,1 @@
+[{"Name":"Ashik","Email":"ashiksarkar.bd@gmail.com","phone number":"01716732950","Password":"ashikur12345","Dob":"2022-11-23","Gender":"male"}]
